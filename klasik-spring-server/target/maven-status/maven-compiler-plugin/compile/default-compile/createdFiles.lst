@@ -1,0 +1,13 @@
+cz\klasik\klasikspringserver\repository\CommentRepository.class
+cz\klasik\klasikspringserver\controller\UserController.class
+cz\klasik\klasikspringserver\KlasikSpringServerApplication.class
+cz\klasik\klasikspringserver\model\Definition.class
+cz\klasik\klasikspringserver\model\User.class
+cz\klasik\klasikspringserver\model\Comment.class
+cz\klasik\klasikspringserver\repository\ArticleRepository.class
+cz\klasik\klasikspringserver\model\Article.class
+cz\klasik\klasikspringserver\model\EnCategory.class
+cz\klasik\klasikspringserver\repository\DefinitionRepository.class
+cz\klasik\klasikspringserver\repository\UserRepository.class
+cz\klasik\klasikspringserver\controller\ArticleController.class
+cz\klasik\klasikspringserver\repository\EnCategoryRepository.class
