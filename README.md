@@ -1,2 +1,10 @@
 # spring-boot-server
-Server for my App
+
+
+Application KLASIK NETWORK
+
+SERVER - Spring-boot, MySql
+       - mvn spring-boot:run
+       
+CLIENT - react
+       - npm install, npm start
