@@ -4,6 +4,7 @@ import Comment from "../Comment/Comment";
 import {fetchPost} from "../../actions";
 import {connect} from 'react-redux';
 import _ from 'lodash';
+import CommentForm from './CommentForm';
 
 class PostShow extends Component {
 
@@ -36,6 +37,7 @@ class PostShow extends Component {
                 </p>
                 <hr/>
                 <h2>Comments</h2>
+                <CommentForm  articleId={post.id}/>
                 {this.renderComments()}
             </div>
         );
